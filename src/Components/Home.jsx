@@ -13,7 +13,7 @@ const Home = () => {
           <li>PUT ME TO WORK</li>
         </ul>
       </div>
-      <div className="title">what the fuck</div>
+      <div className="title">What the fuck</div>
     </div>
   );
 };
